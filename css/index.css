@@ -199,7 +199,8 @@ hr {
 }
 .intro {
   width: 60%;
-  margin: 0 20%;
+  margin: 0 auto;
+  text-align: center;
   border-bottom: 2px dashed #C0C0C0;
 }
 @media (max-width: 500px) {
